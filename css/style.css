@@ -1,0 +1,45 @@
+/*hakai*/
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #000;
+}
+
+/* button */
+.button
+button {
+	color: #000000;
+	text-decoration: none;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white; 
+}
+
+div	{
+	position: absolute;
+}
+
+/* hakai2 1 */
+
+/*{background: url('../images/hakai2.jpg') no-repeat;
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+}
+
+/* button */
+/*
+button {
+	position: center;
+	width: 192px;
+	height: 68px;
+	left: 864px;
+	top: 957px;
+}
